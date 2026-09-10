@@ -6,7 +6,7 @@ This lab demonstrates how several Cisco technologies work together to keep a net
 
 ## Topology
 
-![Network Topology](topology-redudancy.png)
+![Network Topology](topology-redundacy.png) 
 
 ### Main Components
 
